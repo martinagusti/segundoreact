@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+}
+.img{
+  width: 125px;
+  height: 168px;
+  margin: 15px;
+  border-radius: 10px;
+}
+.section{
+  display: flex;   
+}
+h2{
+  margin-left: 5px;
+  margin-top: 15px;
+}
+.enlace{
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
